@@ -1,0 +1,57 @@
+.chat-container {
+    
+    max-width: 500px;
+    margin: 100px auto;
+    padding: 20px;
+  }
+  
+  .input-form {
+    display: flex;
+    margin-bottom: 30px;
+    height: 50p x;
+    color:white;
+
+  }
+  
+  input[type="text"] {
+    flex-grow: 1;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: black;
+  }
+  
+  button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: black;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  
+  .response-container {
+    color: black;
+    padding: 5px;
+    border-radius: 1px;
+
+  }
+  
+  .response {
+            margin: 0;
+            color:black;
+  }
+  
+  i{
+    text-align: center;
+  }
+  i:hover{
+    cursor: pointer;
+  }
+  .card-body{
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(201, 201, 248);
+    border-radius: 3px;
+  }
